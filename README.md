@@ -30,7 +30,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://www.youtube.com/watch?v=PNbIc7KglXE&ab_channel=Ch%C3%ADTh%C3%A0nhL%C3%AA' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=PNbIc7KglXE&ab_channel=Ch%C3%ADTh%C3%A0nhL%C3%AA" type="video/mp4">
+</video>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
