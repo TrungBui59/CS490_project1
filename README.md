@@ -28,7 +28,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-GIF: https://www.youtube.com/watch?v=PNbIc7KglXE&ab_channel=Ch%C3%ADTh%C3%A0nhL%C3%AA
+<img src='https://media.giphy.com/media/o2icNBCDBNOYJQ7yl2/giphy.gif' alt='gif'>
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
@@ -42,7 +43,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [yyyy] [Trung Bui]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
