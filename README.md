@@ -18,7 +18,7 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface through styling and coloring
+- [x] Improve and customize the user interface through styling and coloring
 - [ ] Allow users to scroll when context items are off-screen (table view implemention)
 
 The following **additional** features are implemented:
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://media.giphy.com/media/o2icNBCDBNOYJQ7yl2/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhhYTljMzFlMDJmMzcyMGQxM2VjNmRiODlhMmMyMTliZWM0NDYxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/davmahedxtTjoxBkXi/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
